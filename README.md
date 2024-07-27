@@ -1,2 +1,3 @@
-Run code: python main.py \n
+Run code: python main.py
+
 Docs: final.docx
